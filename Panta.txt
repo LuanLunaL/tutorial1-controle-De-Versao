@@ -1,1 +1,2 @@
 olá meu nome e Panta
+controle de versão com o git e github
